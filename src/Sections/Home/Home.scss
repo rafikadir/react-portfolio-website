@@ -1,0 +1,46 @@
+@import './../../Sass/Variables.scss';
+
+.home-section {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+
+    .home-text {
+        color: $font-color;
+
+        .home-heading {
+            font-size: 75px;
+            font-weight: 600;
+            margin-bottom: 5px;
+            text-transform: capitalize;
+            -webkit-text-stroke-width: 1px;
+            -webkit-text-stroke-color: #dee2e6;
+            -webkit-text-fill-color: $background-color;
+        }
+
+        .home-title {
+            margin-bottom: 30px;
+        }
+
+        .home-btn {
+            background: $secondary-bg;
+            color: #fff;
+            padding: 15px 20px;
+            text-transform: uppercase;
+            text-decoration: none;
+            font-size: 13px;
+            letter-spacing: 1px;
+            display: inline-block;
+            border-radius: 5px;
+            border: 1px solid $secondary-bg;
+            transition: .5s;
+        }
+    }
+
+    .home-img {
+        img {
+            max-width: 400px;
+            margin: auto;
+        }
+    }
+}

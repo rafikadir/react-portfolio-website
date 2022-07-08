@@ -1,0 +1,32 @@
+@import './Sass/Variables.scss';
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: $background-color;
+}
+
+img {
+  max-width: 100%;
+}
+
+ul {
+  padding: 0;
+
+  li {
+    list-style-type: none;
+  }
+}
+
+.pt-100 {
+  padding-top: 100px;
+}
+
+.pb-70 {
+  padding-bottom: 70px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

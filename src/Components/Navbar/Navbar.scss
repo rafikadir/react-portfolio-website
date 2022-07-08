@@ -1,0 +1,25 @@
+@import '../../Sass/Variables.scss';
+
+.main-menu {
+    border-bottom: 1px solid rgb(86 65 86 / 60%);
+
+    .navbar  {
+        .navbar-brand {
+            color: $font-color;
+            text-transform: uppercase;
+            font-size: 30px;
+        }
+
+        .navbar-nav {
+            .nav-item {
+                .nav-link {
+                    color: $font-color;
+
+                    &:hover {
+                        color: #ddd;;
+                    }
+                }
+            }
+        }
+    }
+}
