@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Coding Skills",
+        "skill":{
+            "list": "HTML/CSS/SCSS/JS/Jquery",
+            "list2": "React/Bootstrap/Tailwind",
+            "list3": "Node.JS/Express.Js/API",
+            "list4": "MongoDB/Mysql",
+            "list5": "TS/React Native (Basic)"
+        }
+    },
+    {
+        "title": "Coding Skill",
+        "skill":{
+            "list": "HTML/CSS/SCSS/JS/Jquery",
+            "list2": "React/Bootstrap/Tailwind",
+            "list3": "Node.JS/Express.Js/API",
+            "list4": "MongoDB/Mysql",
+            "list5": "TS/React Native (Basic)"
+        }
+    },
+    {
+        "title": "Coding Skill",
+        "skill":{
+            "list": "HTML/CSS/SCSS/JS/Jquery",
+            "list2": "React/Bootstrap/Tailwind",
+            "list3": "Node.JS/Express.Js/API",
+            "list4": "MongoDB/Mysql",
+            "list5": "TS/React Native (Basic)"
+        }
+    },
+    {
+        "title": "Coding Skill",
+        "skill":{
+            "list": "HTML/CSS/SCSS/JS/Jquery",
+            "list2": "React/Bootstrap/Tailwind",
+            "list3": "Node.JS/Express.Js/API",
+            "list4": "MongoDB/Mysql",
+            "list5": "TS/React Native (Basic)"
+        }
+    },
+    {
+        "title": "Coding Skill",
+        "skill":{
+            "list": "HTML/CSS/SCSS/JS/Jquery",
+            "list2": "React/Bootstrap/Tailwind",
+            "list3": "Node.JS/Express.Js/API",
+            "list4": "MongoDB/Mysql",
+            "list5": "TS/React Native (Basic)"
+        }
+    }
+]
