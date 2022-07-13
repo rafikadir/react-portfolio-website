@@ -3,21 +3,23 @@ import './SkillCard.scss';
 import skills from './../../Data/skills.json';
 
 const SkillCard = () => {
-
   return (
       <>
         {
           skills.map(skill => {
-            return  <div className="col-lg-4">
+            const skillsList = skill.skill;
+
+            return  <div key={skill.id} className="col-lg-4">
                       <div className="skill-card">
-                        <h3>{skill.title}</h3>     
+                        <h3>{skill.title}</h3> 
+
                         <ul>
-                          {
-                            skill.map (list => {
-                              return <li key={list}></li>
-                            })
-                          }
-                        </ul>     
+                           <li>{skillsList.list1}</li>
+                           <li>{skillsList.list2}</li>
+                           <li>{skillsList.list3}</li>
+                           <li>{skillsList.list4}</li>
+                           <li>{skillsList.list5}</li>
+                        </ul>
                     </div>
                   </div>
           })

@@ -1,8 +1,9 @@
 [
     {
+        "id":1,
         "title": "Coding Skills",
         "skill":{
-            "list": "HTML/CSS/SCSS/JS/Jquery",
+            "list1": "HTML/CSS/SCSS/JS/Jquery",
             "list2": "React/Bootstrap/Tailwind",
             "list3": "Node.JS/Express.Js/API",
             "list4": "MongoDB/Mysql",
@@ -10,43 +11,47 @@
         }
     },
     {
-        "title": "Coding Skill",
+        "id":2,
+        "title": "Tools & Technologies",
         "skill":{
-            "list": "HTML/CSS/SCSS/JS/Jquery",
-            "list2": "React/Bootstrap/Tailwind",
-            "list3": "Node.JS/Express.Js/API",
-            "list4": "MongoDB/Mysql",
-            "list5": "TS/React Native (Basic)"
+            "list1": "Visual Studio Code",
+            "list2": "Firebase",
+            "list3": "Netlify/Heroku",
+            "list4": "Git & Github",
+            "list5": "Adobe Photoshop"
         }
     },
     {
-        "title": "Coding Skill",
+        "id":3,
+        "title": "Industry Skills",
         "skill":{
-            "list": "HTML/CSS/SCSS/JS/Jquery",
-            "list2": "React/Bootstrap/Tailwind",
-            "list3": "Node.JS/Express.Js/API",
-            "list4": "MongoDB/Mysql",
-            "list5": "TS/React Native (Basic)"
+            "list1": "Web Development",
+            "list2": "Responsive Web Design",
+            "list3": "E-Commerce",
+            "list4": "Shopify E-commerce",
+            "list5": "WordPress Website"
         }
     },
     {
-        "title": "Coding Skill",
+        "id":4,
+        "title": "Other Skills",
         "skill":{
-            "list": "HTML/CSS/SCSS/JS/Jquery",
-            "list2": "React/Bootstrap/Tailwind",
-            "list3": "Node.JS/Express.Js/API",
-            "list4": "MongoDB/Mysql",
-            "list5": "TS/React Native (Basic)"
+            "list1": "Internet Of Things (IoT)",
+            "list2": "Basic Computer",
+            "list3": "Computer Hardware",
+            "list4": "Learning Attitude",
+            "list5": "Content Creation"
         }
     },
     {
-        "title": "Coding Skill",
+        "id":5,
+        "title": "Interests",
         "skill":{
-            "list": "HTML/CSS/SCSS/JS/Jquery",
-            "list2": "React/Bootstrap/Tailwind",
-            "list3": "Node.JS/Express.Js/API",
-            "list4": "MongoDB/Mysql",
-            "list5": "TS/React Native (Basic)"
+            "list1": "Coding",
+            "list2": "Learn New Things",
+            "list3": "Travelling",
+            "list4": "Coffee",
+            "list5": "Gaming PC"
         }
     }
 ]

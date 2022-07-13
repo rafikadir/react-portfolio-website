@@ -1,17 +1,20 @@
 import React from 'react';
-import SectionTitle from '../../Components/SectionTitle/SectionTitle';
-import SkillCard from '../../Components/SkillCard/SkillCard';
 import './Skills.scss';
+import SectionTitle from '../../Components/SectionTitle/SectionTitle';
+import Education from '../../Components/Education/Education';
+import SkillCard from '../../Components/SkillCard/SkillCard';
+import Experience from '../../Components/Experience/Experience';
 
 const Skills = () => {
   return (
     <section className="skills-section pt-100 pb-70">
         <div className="container">
-          <SectionTitle title1="My " title2="Skills"></SectionTitle>
-
-          <div className="row">
-            <SkillCard />
-          </div>
+          <SectionTitle title="My Skills"></SectionTitle>
+            <div className="row">
+              <SkillCard/>
+              <Education />
+              <Experience />
+            </div>
         </div>
     </section>
   )
