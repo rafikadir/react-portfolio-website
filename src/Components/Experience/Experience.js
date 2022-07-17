@@ -1,5 +1,4 @@
 import React from 'react'
-import SectionTitle from '../SectionTitle/SectionTitle';
 import './Experience.scss';
 
 
@@ -8,7 +7,7 @@ const experienceInfo =
   "name": "Salah Software Solution",
   "title": "Front End Developer",
   "year": "2020 - 2020",
-  "description": "I worked as intern in Salah Software as a Front End Web Developer. Developed 4+ Themeforest projects."
+  "description": "I worked as intern in Salah Software as a Front End Web Developer."
 },
 {
   "name": "Salah Software Solution",

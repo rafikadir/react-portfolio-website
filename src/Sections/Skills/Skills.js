@@ -7,7 +7,7 @@ import Experience from '../../Components/Experience/Experience';
 
 const Skills = () => {
   return (
-    <section className="skills-section pt-100 pb-70">
+    <section id='skills' className="skills-section pt-100 pb-70">
         <div className="container">
           <SectionTitle title="My Skills"></SectionTitle>
             <div className="row">

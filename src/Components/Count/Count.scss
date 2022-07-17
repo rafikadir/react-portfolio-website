@@ -1,0 +1,16 @@
+@import './../../Sass/Variables.scss';
+
+.counter {
+    text-align: center;
+    
+    h2 {
+        font-size: 50px;
+        color: $font-color;
+    }
+
+    p {
+        margin-bottom: 0;
+        font-size: 16px;
+        color: $font-color;
+    }
+}
